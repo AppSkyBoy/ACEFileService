@@ -1,0 +1,16 @@
+E:\夏的工作\南方电网\EweiVedioManager\EweiVedioManager\bin\ACE_FILE_SERVER_VIEW.exe
+E:\夏的工作\南方电网\EweiVedioManager\EweiVedioManager\bin\ACE_FILE_SERVER_VIEW.pdb
+E:\夏的工作\南方电网\EweiVedioManager\EweiVedioManager\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ResolveAssemblyReference.cache
+E:\夏的工作\南方电网\EweiVedioManager\EweiVedioManager\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.MinForm.resources
+E:\夏的工作\南方电网\EweiVedioManager\EweiVedioManager\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.Properties.Resources.resources
+E:\夏的工作\南方电网\EweiVedioManager\EweiVedioManager\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.csproj.GenerateResource.Cache
+E:\夏的工作\南方电网\EweiVedioManager\EweiVedioManager\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.exe
+E:\夏的工作\南方电网\EweiVedioManager\EweiVedioManager\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.pdb
+F:\C#MVP_框架\ACE文件服务器\ACEFileService\FileService\bin\ACE_FILE_SERVER_VIEW.exe
+F:\C#MVP_框架\ACE文件服务器\ACEFileService\FileService\bin\ACE_FILE_SERVER_VIEW.pdb
+F:\C#MVP_框架\ACE文件服务器\ACEFileService\FileService\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ResolveAssemblyReference.cache
+F:\C#MVP_框架\ACE文件服务器\ACEFileService\FileService\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.MinForm.resources
+F:\C#MVP_框架\ACE文件服务器\ACEFileService\FileService\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.Properties.Resources.resources
+F:\C#MVP_框架\ACE文件服务器\ACEFileService\FileService\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.csproj.GenerateResource.Cache
+F:\C#MVP_框架\ACE文件服务器\ACEFileService\FileService\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.exe
+F:\C#MVP_框架\ACE文件服务器\ACEFileService\FileService\ACE_FILE_SERVER_VIEW_SRC\obj\Release\ACE_FILE_SERVER_VIEW.pdb

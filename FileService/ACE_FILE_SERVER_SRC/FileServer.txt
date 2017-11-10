@@ -1,0 +1,483 @@
+Server begin
+Starting server at port:19998
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:2909)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2910)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:2911)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2912)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2913)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Disconnected:127.0.0.1
+client connected:(127.0.0.1:2914)
+Current connected count(0)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2916)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:2924)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2925)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:2936)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2937)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:2941)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2942)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:2953)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2954)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:2955)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2956)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:2116)
+[MSGSend](iSendSize:2116)
+[MSGSend]send end
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:2967)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2968)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:2977)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2978)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Server begin
+Starting server at port:19998
+Server begin
+Starting server at port:19998
+Server begin
+Starting server at port:19998
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:1858)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:1859)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1860)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+[FileRecv]Begin receiving the file[\\spy4win.rar][IP:127.0.0.1]
+[FileRecv]receiving filesize[spy4win.rar][fileSize:1KB][IP:127.0.0.1]
+[FileRecv]File receive completed[spy4win.rar][IP:127.0.0.1]
+client connected:(127.0.0.1:1861)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:217)
+[MSGSend](iSendSize:217)
+[MSGSend]send end
+Disconnected:127.0.0.1
+Current connected count(1)
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1862)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+[FileRecv]Begin receiving the file[\\Visual+C#+2008核心编程及源代码.part04.rar][IP:127.0.0.1]
+[FileRecv]receiving filesize[Visual+C#+2008核心编程及源代码.part04.rar][fileSize:14MB][IP:127.0.0.1]
+[FileRecv]resv data [10%][Visual+C#+2008核心编程及源代码.part04.rar][IP:127.0.0.1:1862]
+[FileRecv]resv data [20%][Visual+C#+2008核心编程及源代码.part04.rar][IP:127.0.0.1:1862]
+client connected:(127.0.0.1:1863)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:1864)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+Server begin
+Starting server at port:19998
+Server begin
+Server begin
+Server begin
+Server begin
+Starting server at port:127
+client connected:(127.0.0.1:2753)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2754)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:143)
+[MSGSend](iSendSize:143)
+[MSGSend]send end
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:2761)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+[FileRecv]Begin receiving the file[\\C#高级编程(中文第七版).pdf][IP:127.0.0.1]
+[FileRecv]receiving filesize[C#高级编程(中文第七版).pdf][fileSize:99MB][IP:127.0.0.1]
+[FileRecv]resv data [10%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+[FileRecv]resv data [20%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+[FileRecv]resv data [30%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+[FileRecv]resv data [40%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+[FileRecv]resv data [50%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+client connected:(127.0.0.1:2762)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+[FileRecv]resv data [60%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+[FileRecv]resv data [70%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+[FileRecv]resv data [80%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+[FileRecv]resv data [90%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+[FileRecv]resv data [100%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2761]
+[FileRecv]File receive completed[C#高级编程(中文第七版).pdf][IP:127.0.0.1]
+client connected:(127.0.0.1:2767)
+[CMD]CLIENT_FILE_GET_LIST[IP:127.0.0.1]
+[MSGSend](lenth:240)
+Disconnected:127.0.0.1
+Current connected count(1)
+[MSGSend](iSendSize:240)
+[MSGSend]send end
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:2771)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]The file name already exists[C#高级编程(中文第七版).pdf][IP:127.0.0.1]
+[fileSend]Send data [10%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+client connected:(127.0.0.1:2772)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]Send data [20%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+[fileSend]Send data [30%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+[fileSend]Send data [40%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+[fileSend]Send data [50%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+[fileSend]Send data [60%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+[fileSend]Send data [70%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+client connected:(127.0.0.1:2774)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]Send data [80%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+[fileSend]Send data [90%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+client connected:(127.0.0.1:2777)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+client connected:(127.0.0.1:2778)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+[fileSend]Send data [100%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2771]
+[fileSend]Send a file successfully(C#高级编程(中文第七版).pdf)
+Disconnected:127.0.0.1
+Current connected count(3)
+client connected:(127.0.0.1:2780)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]The file name already exists[C#高级编程(中文第七版).pdf][IP:127.0.0.1]
+[fileSend]Send data [10%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+[fileSend]Send data [20%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+[fileSend]Send data [30%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+[fileSend]Send data [40%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+client connected:(127.0.0.1:2781)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]Send data [50%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+[fileSend]Send data [60%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+[fileSend]Send data [70%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+[fileSend]Send data [80%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+[fileSend]Send data [90%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+[fileSend]Send data [100%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2780]
+[fileSend]Send a file successfully(C#高级编程(中文第七版).pdf)
+Disconnected:127.0.0.1
+Current connected count(4)
+client connected:(127.0.0.1:2784)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]The file name already exists[C#高级编程(中文第七版).pdf][IP:127.0.0.1]
+[fileSend]Send data [10%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+[fileSend]Send data [20%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+[fileSend]Send data [30%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+[fileSend]Send data [40%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+client connected:(127.0.0.1:2785)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]Send data [50%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+[fileSend]Send data [60%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+[fileSend]Send data [70%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+[fileSend]Send data [80%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+[fileSend]Send data [90%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+[fileSend]Send data [100%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2784]
+[fileSend]Send a file successfully(C#高级编程(中文第七版).pdf)
+Disconnected:127.0.0.1
+Current connected count(5)
+client connected:(127.0.0.1:2788)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]The file name already exists[C#高级编程(中文第七版).pdf][IP:127.0.0.1]
+[fileSend]Send data [10%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+[fileSend]Send data [20%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+[fileSend]Send data [30%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+[fileSend]Send data [40%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+client connected:(127.0.0.1:2791)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]Send data [50%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+[fileSend]Send data [60%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+[fileSend]Send data [70%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+[fileSend]Send data [80%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+client connected:(127.0.0.1:2792)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+[fileSend]Send data [90%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+[fileSend]Send data [100%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2788]
+[fileSend]Send a file successfully(C#高级编程(中文第七版).pdf)
+Disconnected:127.0.0.1
+Current connected count(6)
+client connected:(127.0.0.1:2793)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]The file name already exists[C#高级编程(中文第七版).pdf][IP:127.0.0.1]
+[fileSend]Send data [10%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+[fileSend]Send data [20%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+[fileSend]Send data [30%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+client connected:(127.0.0.1:2796)
+[CMD]CLIENT_FILE_RECV[IP:127.0.0.1]
+[fileSend]Send data [40%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+[fileSend]Send data [50%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+[fileSend]Send data [60%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+[fileSend]Send data [70%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+[fileSend]Send data [80%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+[fileSend]Send data [90%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+[fileSend]Send data [100%][C#高级编程(中文第七版).pdf][IP:127.0.0.1:2793]
+[fileSend]Send a file successfully(C#高级编程(中文第七版).pdf)
+Disconnected:127.0.0.1
+Current connected count(7)
+client connected:(127.0.0.1:2801)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+client connected:(127.0.0.1:2810)
+[CMD]CLIENT_GETCONNECTEDCOUNT[IP:127.0.0.1]
+[fileSend]recv data error[IP:127.0.0.1]
+[fileSend]recv data error[IP:127.0.0.1]
+[fileSend]recv data error[IP:127.0.0.1]
+Disconnected:127.0.0.1
+[fileSend]recv data error[IP:127.0.0.1]
+[fileSend]recv data error[IP:127.0.0.1]
+[fileSend]recv data error[IP:127.0.0.1]
+[fileSend]recv data error[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Disconnected:127.0.0.1
+Current connected count(6)
+Disconnected:127.0.0.1
+Disconnected:127.0.0.1
+Disconnected:127.0.0.1
+Disconnected:127.0.0.1
+Current connected count(5)
+Current connected count(4)
+Current connected count(3)
+Current connected count(1)
+Current connected count(0)
+Current connected count(2)
+Server begin
+Starting server at port:127
+Server begin
+Starting server at port:19998
+Server begin
+Starting server at port:19998
+Server begin
+Server begin
+Starting server at port:19998
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Server begin
+Starting server at port:127
+Server begin
+Starting server at port:127
+Server begin
+Starting server at port:127
+Server begin
+Starting server at port:127
+Server begin
+Starting server at port:127
+Server begin
+Starting server at port:127
+Server begin
+Server begin
+Server begin
+Server begin
+Starting server at port:127
+Server begin
+Server begin
+Server begin
+Server begin
+Starting server filed [port:19998]
+Server begin
+Server begin
+Server begin
+Starting server at port:19998
+Server begin
+Starting server at port:19998
+Server begin
+Starting server at port:19998
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:1907)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1910)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+client connected:(127.0.0.1:1915)
+Current connected count(0)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+client connected:(127.0.0.1:1917)
+Disconnected:127.0.0.1
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Current connected count(1)
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1919)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1920)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1921)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1922)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1925)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+Server begin
+Starting server at port:19998
+client connected:(127.0.0.1:1941)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1942)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1943)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+client connected:(127.0.0.1:1945)
+Disconnected:127.0.0.1
+Current connected count(0)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+client connected:(127.0.0.1:1952)
+Current connected count(0)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+client connected:(127.0.0.1:1953)
+Disconnected:127.0.0.1
+Current connected count(0)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1957)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1958)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1959)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1960)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+client connected:(127.0.0.1:1962)
+[CMD]Receive cmd error!(127.0.0.1)
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1967)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1968)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1970)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1972)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1973)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1974)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1975)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1976)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+client connected:(127.0.0.1:1978)
+Disconnected:127.0.0.1
+Current connected count(0)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+client connected:(127.0.0.1:1979)
+[CMD]Receive cmd error!(127.0.0.1)
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1984)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+client connected:(127.0.0.1:1985)
+Disconnected:127.0.0.1
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Current connected count(1)
+Disconnected:127.0.0.1
+Current connected count(0)
+client connected:(127.0.0.1:1987)
+[CMD]CLIENT_FILE_SEND[IP:127.0.0.1]
+Server begin
+Starting server at port:19998

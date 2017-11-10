@@ -1,0 +1,12 @@
+ace下载地址
+download.dre.vanderbilt.edu
+
+
+ace.rar解压后放到\EweiVedioManager的上级目录即可，工程里面已含有编译好的Ace.dll和Ace.lib(没有可以在ACE目录中编译升成运行库
+
+
+
+ACE_FILE_SERVER_SRC在Linux下的编译
+1.将ACE_FILE_SERVER_SRC目录下的文件拷贝到Linux下(SOCK_Client.xxx可以不用拷贝这个是需要在Windows下升成的)
+2.修改ClientMothod.h文件中的宏//#define VER_SERVER为有效
+3.执行make指令(需要预先配置好ＡＣＥ环境)

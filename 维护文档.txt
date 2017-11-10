@@ -1,0 +1,37 @@
+一.环境配置
+
+ace下载地址
+download.dre.vanderbilt.edu
+
+ace.rar解压后放到项目的上级目录(..\FileServce)即可，工程里面已含有编译好的Ace.dll和Ace.lib(没有可以在ACE目录中编译升成运行库
+
+二.项目介绍
+
+1.ACE_FILE_SERVER_SRC: 文件服务器/客户端源码(可根据编译条件编译成服务器端和客户端,开发语言:C++,库:ACE)
+生成dll: 1.修改ClientMothod.h的宏为VER_DLL	
+              2.修改项目属性生成为.dll  (属性->配置属性->常规->配置类型为DLL)
+              3.修改生成的dll文件名为SOCK_Connecter.dll,再编译即可
+生成exe; 1.修改ClientMothod.h的宏为VER_SERVER	
+                2.修改项目属性生成为.exe (属性->配置属性->常规->配置类型为exe)
+                3.修改生成名为SOCK_Server.exe再编译即可;
+生成Linux版本的服务器:
+	1.修改ClientMothod.h的宏为VER_SERVER
+	2.需要在Linux下重新编译
+
+2.FTP_Connecter:FTP客户端连接接口
+
+3.ACE_FILE_SERVER_VIEW_SRC:文件查看器源码(可连接FTP和Socket文件服务器,开发语言:c#)
+
+
+
+注意:使用了socket功能后在有些机子上需要包含以下vs2008的运行库文件(使用了ＡＣＥ库的原因，不包含的话有些机子上就会出现程序初始化错误的提示):
+msvcr90.dll和msvcp90.dll
+
+
+三.ACE_FILE_SERVER_SRC在Linux下的编译
+
+1.将ACE_FILE_SERVER_SRC目录下的文件拷贝到Linux下(SOCK_Client.xxx可以不用拷贝这个是需要在Windows下升成的)
+
+2.修改ClientMothod.h文件中的宏//#define VER_SERVER为有效
+
+3.执行make指令(需要预先配置好ＡＣＥ环境)

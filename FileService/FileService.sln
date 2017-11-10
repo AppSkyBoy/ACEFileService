@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACE_FILE_SERVER", "ACE_FILE_SERVER_SRC\ACE_FILE_SERVER.vcproj", "{96D850A8-FECA-1BAD-2431-8A1100722433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACE_FILE_SERVER_VIEW", "ACE_FILE_SERVER_VIEW_SRC\ACE_FILE_SERVER_VIEW.csproj", "{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3} = {4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}
+		{96D850A8-FECA-1BAD-2431-8A1100722433} = {96D850A8-FECA-1BAD-2431-8A1100722433}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FTP_Connecter", "FTP_Connecter\FTP_Connecter.vcproj", "{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Debug|Win32.ActiveCfg = Debug|Win32
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Debug|Win32.Build.0 = Debug|Win32
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Release|Any CPU.ActiveCfg = Release|Win32
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Release|Win32.ActiveCfg = Release|Win32
+		{96D850A8-FECA-1BAD-2431-8A1100722433}.Release|Win32.Build.0 = Release|Win32
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B0CC1CD0-8EDE-4090-8393-75539ABCEE6B}.Release|Win32.ActiveCfg = Release|Any CPU
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Debug|Win32.Build.0 = Debug|Win32
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Release|Any CPU.ActiveCfg = Release|Win32
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Release|Win32.ActiveCfg = Release|Win32
+		{4FBCF2A0-B802-45D2-955D-34ABBBAF9FA3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
